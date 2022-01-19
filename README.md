@@ -1,7 +1,7 @@
 # r2de_project
 mini project  Road to Data Engineer
 เนื่องจากพึ่งเรียน Road to Data Engineer (R2DE 2.0) จาก DATAth.com จบเลยมาลองทบทวนความรู้ด้วยทำ mini project ของตนเอง โดย mini project นี้จะแสดง Data Engineer end-to-end flow ที่ได้จากการเข้าเรียน Road to Data Engineer (R2DE 2.0) จาก DATAth.com โดย flow การทำงานนั้น สามารถดูได้จากภาพประกอบที่ 1
- 
+ ![alt text](https://drive.google.com/file/d/1-UhgqBEPmRltA88KKeHw0af-zXFw8ddd/view)
  
 ภาพประกอบที่ 1 Data Engineer end-to-end flow โดยใช้ google cloud platform
 จากภาพประกอบที่ 1 จะพบว่ามีขั้นตอนทั้งหมด 6 ขั้นตอนดังนี้
