@@ -121,7 +121,7 @@ Data Pipeline Orchestration Orchestration เป็นการจัดกา�
 <p align="center">
 ภาพประกอบที่ 14 ภาพ DAGS ใน Airflow
 </p>	
-โดยใน mini project นี้มี DAG ทั้งหมด 6 ทั้ง ดังภาพประกอบที่ 
+โดยใน mini project นี้มี DAG ในรูปแบบ Graph View ทั้งหมด 6 ทั้ง ดังภาพประกอบที่  15
 <p align="center">
 <img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture15.png?raw=true"  title="pic1">
 </p>
