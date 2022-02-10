@@ -141,7 +141,7 @@ Google Big Query แล้วจะพบข้อมูลดังภาพป
 <img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture16.png?raw=true"  title="pic1">
 </p>
 <p align="center">
-ภาพตัวอย่างข้อมูลใน Google Big Query
+ภาพประกอบที่ 16 ภาพตัวอย่างข้อมูลใน Google Big Query
 </p>	
 5.Data Warehouse
 Data Warehouse เหมาะกับการเก็บข้อมูลประเภท Structured data ที่มีขนาดใหญ่ใช้พื้นที่จัดเก็บที่ปริมาณมากข้อมูลที่เก็บมักจะเป็นข้อมูลในอดีต(historical data) ที่ไม่มีการเปลี่ยนแปลง โดยใน mini project นี้จะ Google Big Query เป็น Data Warehouse โดยจะนำเข้าข้อมูลในขั้นตอนที่ 4 Data Pipeline
