@@ -1,6 +1,6 @@
 mini project นี้เป็นการทบทวนความรู้ด้วยการทำ mini project ของตัวเอง ด้วยโจทย์คือ ต้องการทราบข้อมูลผู้ป่วยโควิดในแต่ล่ะวันของแต่ล่ะจังหวัดและประชากรชายและหญิงของจังหวัดนั้นๆโดยคิดเป็นเปอร์เซ็นในแต่ล่ะจังหวัด โดย mini project นี้จะมี end-to-end flow และบริหารของ Google Cloud Platform  ดังภาพประกอบที่ 1
   <p align="center">
-	<img src="https://lh3.googleusercontent.com/17Q4pTqXY4qkOYSv6cGjmh10YQGFPUnVgiVXFiJ4C4Y4U6MTs59fR6ieM-vzDPYwkLo3_qDRHnpI6U3Wf99RmSwZNEMdwkMEowPko-rBy43-DHFsCzgvk7TovAavoHiVYpzDiZpG06OlLmoh3otzOD-Yo-dLXwSe7F_KYDM8fOdKndDM1B9UB8uH1svdTuKNCL08hF4CDGg8mhExf0TLSbsHnbqnlfuk4BtSxbU5YASe7UIHbfJVuSGwA7iPqFqLf81eEljyLgTc_xqS6UvBGezJ_V87Ia4XOurB65bSm-E1bncWlEwLCeiBvDGxdOrXE5Fgz2UIPa8hiVW683zE9bDGf67xYTfGe3ouwO11AmdOnha0VeBLrg-G4Aq5KYRTe4PXIDVjnAi51cca8eZY1Wb0NMSI1wa4rBcjQlaXo0uPW76GILZDz6sEBpVoDDU_Y01osv4n3hMP-QEzEnU0OCUvutY-SvfDsS7A9dBPsyxq2TeI4wXPVuBaY4UIr2abPaNecri8jv6VUp6PuYdCqIUlDT-YN5peCQRCt9mdlRrH5n4EfaEbhDldzima3KpQVuxF8y_MBPm4h-Au0rLXcmHG3Wx0y61QWZSEvrkgXiUkREM7c2jVAYJIpxmLP-m_hL7M3ny9XnKYvxw4fMZT3JnJw8MdiQaTFUJ5b_do3-O3mH3ZmR4bEF-B7_t61dPmmTmlpEQ_7zaPUVzMj2FSuYI=w624-h281-no?authuser=0"  title="pic1">
+	<img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture1.png?raw=true"  title="pic1">
  </p>
 ภาพประกอบที่ 1 Data Engineer end-to-end flow โดยใช้ google cloud platform
 จากภาพประกอบที่ 1 จะพบว่ามีขั้นตอนทั้งหมด 6 ขั้นตอนดังนี้
@@ -15,7 +15,7 @@ mini project นี้เป็นการทบทวนความรู้�
 1.Data Collection
 	สำหรับขั้นตอนนี้ คือการ รวบรวมข้อมูลมาจากหลายๆแหล่ง เช่น Database หรือ ไม่ก็ API
 โดยอ้างอิงจาก Data Engineer end-to-end flow ดังภาพประกอบที่ 2
- 
+ <img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture2.png?raw=true"  title="pic1">
 ภาพประกอบที่ 2 Data Engineer end-to-end flow
 
 	จากภาพที่ 2 จะพบว่า แหล่งข้อมูล ในขั้นตอน Data Collection นั้นมีการได้มา 2 วิธี ได้แก่  
