@@ -1,18 +1,18 @@
-mini project นี้เป็นการทบทวนความรู้ด้วยการทำ mini project ของตัวเอง ด้วยโจทย์คือ ต้องการทราบข้อมูลผู้ป่วยโควิดในแต่ล่ะวันของแต่ล่ะจังหวัดและประชากรชายและหญิงของจังหวัดนั้นๆโดยคิดเป็นเปอร์เซ็นในแต่ล่ะจังหวัด โดย mini project นี้จะมี end-to-end flow และบริหารของ Google Cloud Platform  ดังภาพประกอบที่ 1
+	mini project นี้เป็นการทบทวนความรู้ด้วยการทำ mini project ของตัวเอง ด้วยโจทย์คือ ต้องการทราบข้อมูลผู้ป่วยโควิดในแต่ล่ะวันของแต่ล่ะจังหวัดและประชากรชายและหญิงของจังหวัดนั้นๆโดยคิดเป็นเปอร์เซ็นในแต่ล่ะจังหวัด โดย mini project นี้จะมี end-to-end flow และบริหารของ Google Cloud Platform  ดังภาพประกอบที่ 1
 <p align="center">
 <img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture1.png?raw=true"  title="pic1">
 </p>
 <p align="center">
 ภาพประกอบที่ 1 Data Engineer end-to-end flow โดยใช้ google cloud platform
 </p>
-จากภาพประกอบที่ 1 จะพบว่ามีขั้นตอนทั้งหมด 6 ขั้นตอนดังนี้
-1.	Data Collection 
-2.	Data Cleansing
-3.	Data Lake
-4.	Data Pipeline
-5.	Data Warehouse
-6.	Data Visualization
-จากขั้นตอนทั้ง 6 ขั้นตอน แต่ในโปรเจคนี้จะทำถึงแค่ขั้นตอนที่ 5 โดยแต่ล่ะขั้นตอนสามารถแสดงรายละเอียดแต่ล่ะขั้นตอนได้ดังนี้
+	จากภาพประกอบที่ 1 จะพบว่ามีขั้นตอนทั้งหมด 6 ขั้นตอนดังนี้
+	1.	Data Collection <br>
+	2.	Data Cleansing  <br>
+	3.	Data Lake  <br>
+	4.	Data Pipeline  <br>
+	5.	Data Warehouse  <br>
+	6.	Data Visualization  <br>
+	จากขั้นตอนทั้ง 6 ขั้นตอน แต่ในโปรเจคนี้จะทำถึงแค่ขั้นตอนที่ 5 โดยแต่ล่ะขั้นตอนสามารถแสดงรายละเอียดแต่ล่ะขั้นตอนได้ดังนี้
 
 1.Data Collection
 	สำหรับขั้นตอนนี้ คือการ รวบรวมข้อมูลมาจากหลายๆแหล่ง เช่น Database หรือ ไม่ก็ API
