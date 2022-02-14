@@ -1,4 +1,4 @@
-mini project นี้เป็นการทบทวนความรู้ด้วยการทำ mini project ของตัวเอง ด้วยโจทย์คือ ต้องการทราบข้อมูลผู้ป่วยโควิดในแต่ล่ะวันของแต่ล่ะจังหวัดและประชากรชายและหญิงของจังหวัดนั้นๆโดยคิดเป็นเปอร์เซ็นในแต่ล่ะจังหวัด โดย mini project นี้จะมี end-to-end flow และบริหารของ Google Cloud Platform  ดังภาพประกอบที่ 1
+mini project นี้เป็นการทบทวนความรู้ จากการไปเรียน คอร์ส Road to Data Engineer ด้วยการทำ mini project ของตัวเอง ด้วยโจทย์คือ ต้องการทราบข้อมูลผู้ป่วยโควิดในแต่ล่ะวันของแต่ล่ะจังหวัดและประชากรชายและหญิงของจังหวัดนั้นๆโดยคิดเป็นเปอร์เซ็นในแต่ล่ะจังหวัด โดย mini project นี้จะมี end-to-end flow และบริหารของ Google Cloud Platform  ดังภาพประกอบที่ 1
 <p align="center">
 <img src="https://github.com/Phonlakid/de_mini_project/blob/main/pic/Picture1.png?raw=true"  title="pic1">
 </p>
